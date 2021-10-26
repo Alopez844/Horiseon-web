@@ -8,5 +8,5 @@ I then fixed the tab links for for the top tabs to drop down to that section whe
 
 Added alt tags to the images.
 
-Fixed a few id tags and div tages to make sure all CSS styling applied to the correct section.
+Fixed a few id tags and div tags to make sure all CSS styling applied to the correct section.
 
