@@ -1,6 +1,6 @@
 # Horiseon-web Refactor
 
-Refacoted with HTML and CSS
+Refactored with HTML and CSS
 
 I first fixed all and any indentation needed to amke the code for both the HTML and CSS to look neat and easier to read.
 
